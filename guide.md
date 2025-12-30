@@ -74,7 +74,7 @@ Open notebooks from the `notebooks/` folder in your browser.
 ### 📊 View Interactive Dashboard (Linux)
 Open the following file in any web browser:
 ```
-dashboards/sales_dashboard_linux.html
+dashboards/sales_dashboard.html
 ```
 
 ---
